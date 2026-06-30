@@ -1,1 +1,1 @@
-print("sample")
+print("5+6")
